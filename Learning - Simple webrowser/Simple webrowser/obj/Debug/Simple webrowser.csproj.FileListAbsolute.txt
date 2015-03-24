@@ -1,0 +1,9 @@
+D:\AA @CodeGasm\My Projects\Test 1\Simple webrowser\Simple webrowser\bin\Debug\Simple webrowser.exe.config
+D:\AA @CodeGasm\My Projects\Test 1\Simple webrowser\Simple webrowser\bin\Debug\Simple webrowser.exe
+D:\AA @CodeGasm\My Projects\Test 1\Simple webrowser\Simple webrowser\bin\Debug\Simple webrowser.pdb
+D:\AA @CodeGasm\My Projects\Test 1\Simple webrowser\Simple webrowser\obj\Debug\Simple webrowser.csprojResolveAssemblyReference.cache
+D:\AA @CodeGasm\My Projects\Test 1\Simple webrowser\Simple webrowser\obj\Debug\Simple_webrowser.Form1.resources
+D:\AA @CodeGasm\My Projects\Test 1\Simple webrowser\Simple webrowser\obj\Debug\Simple_webrowser.Properties.Resources.resources
+D:\AA @CodeGasm\My Projects\Test 1\Simple webrowser\Simple webrowser\obj\Debug\Simple webrowser.csproj.GenerateResource.Cache
+D:\AA @CodeGasm\My Projects\Test 1\Simple webrowser\Simple webrowser\obj\Debug\Simple webrowser.exe
+D:\AA @CodeGasm\My Projects\Test 1\Simple webrowser\Simple webrowser\obj\Debug\Simple webrowser.pdb
